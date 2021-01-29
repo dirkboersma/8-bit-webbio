@@ -2,7 +2,7 @@
 ## 8-bit-webbio is een Hackfriday project
 
 Dit was voor mij een eendaags project om te kijken of er een manier is om de vormgeving of UX van een applicatie/website van ons meer 8-bit te maken. 
-De code en live omgeving zijn te vinden op:
+Het resultaat in code en live omgeving zijn te vinden op:
   
   1. Github - https://github.com/dirkboersma/8-bit-webbio
   2. Netlify - https://8-bit-webbio.netlify.app/
