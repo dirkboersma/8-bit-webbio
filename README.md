@@ -1,7 +1,7 @@
 # 8-bit-webbio
-Hackfriday project
+## 8-bit-webbio is eem Hackfriday project
 
-Dit was een eendagse project om te kijken of er een manier is om de vormgeving of UX van een applicatie/website van ons meer 8-bit te maken. 
+Dit was voor mij een eendaags project om te kijken of er een manier is om de vormgeving of UX van een applicatie/website van ons meer 8-bit te maken. 
 De code en live omgeving zijn te vinden op:
   
   1. Github - https://github.com/dirkboersma/8-bit-webbio
