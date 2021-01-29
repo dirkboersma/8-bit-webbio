@@ -1,5 +1,5 @@
 # 8-bit-webbio
-## 8-bit-webbio is eem Hackfriday project
+## 8-bit-webbio is een Hackfriday project
 
 Dit was voor mij een eendaags project om te kijken of er een manier is om de vormgeving of UX van een applicatie/website van ons meer 8-bit te maken. 
 De code en live omgeving zijn te vinden op:
@@ -14,11 +14,14 @@ In het zoeken naar inspiratie en tooling kwam ik een aantal gave tools tegen die
   3. Blogpost Making 8-Bit Art with JavaScript - https://medium.com/@agbales/how-to-make-8-bit-art-with-javascript-eea808a70ba2
   4. https://net-sigma.com/pixelart
   
-Een blogpost op Medium, een CSS framework en een simple image tooltje besloot ik wel te gebruiken:
+Wat ik wel besloot te gebruiken:
   
   1. Blogpost 8-Bit Style CSS - https://medium.com/swlh/8-bit-style-css-7bf19dfd65ca
   2. NES.css - NES-style CSS Framework. [https://nostalgic-css.github.io/NES.css/]
   3. IMG8Bit - Convert image into Animated 8-Bit Pixel Art. [https://img8bit.com/]
+  4. RolandRadio - https://rolandradio.net/
+  5. Webbio, ons team - https://webbio.nl/het-team/
+  
 
 To Do:
   1. Space invaders in een modal integreren - https://codepen.io/adelciotto/pen/BHuGL
