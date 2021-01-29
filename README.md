@@ -27,4 +27,5 @@ To Do:
   1. Space invaders in een modal integreren - https://codepen.io/adelciotto/pen/BHuGL
   2. Autoplay RolandRadio
   3. Gif animatie starten bij mouse over
-  
+  4. Kleurrijkere afbeeldingen/gif's
+  5. Child pagina's
